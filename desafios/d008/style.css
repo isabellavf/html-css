@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.cinza{
+    background-color: #d3d3d3;
+    font-size: 30px;
+}
+
+.verde{
+    background-color: #a6eb9a;
+    color: #2a6218;
+    font-size: 30px;
+}
+
+.amarelo{
+    background-color: #ffffe3;
+    color: #c3884c;
+    font-size: 30px;
+}
